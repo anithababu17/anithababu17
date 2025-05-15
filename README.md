@@ -1,6 +1,14 @@
 - 👋 Hi, I’m Anitha Babu
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning Python
+- 🎓 Computer Science student 
+- 💻 Currently learning Web Development, Git, and Python
+- 📚 Interested in AI, Bioinformatics, and Creative Tech Projects
+- 🌻 Lover of sunflowers, books, and solving real-world problems
+
+### 🌱 What I'm Working On
+- Building a smarter library book search system 📚
+- Learning Git, GitHub & Version Control 🚀
+- Exploring CSS and Responsive Web Design 🎨
+
 
 <!---
 anithababu17/anithababu17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
